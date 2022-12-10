@@ -1,0 +1,12 @@
+numpy
+pandas
+Pillow
+opencv-python
+matplotlib
+jupyter
+ipywidgets
+wheel
+onnxruntime
+insightface
+deepface
+faiss-cpu
