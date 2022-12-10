@@ -6,7 +6,5 @@ matplotlib
 jupyter
 ipywidgets
 wheel
-onnxruntime
-insightface
 deepface
-faiss-cpu
+scikit-learn

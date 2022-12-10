@@ -1,6 +1,3 @@
 [submodule "deploy"]
 	path = deploy
 	url = https://github.com/Batterlake/deploy-ml-fastapi-redis-docker.git
-[submodule "deepface"]
-	path = deepface
-	url = https://github.com/Batterlake/deepface.git
