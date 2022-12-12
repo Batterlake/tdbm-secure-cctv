@@ -11,8 +11,8 @@
   1. cd db
   2. docker-compose build
   3. docker-compose up
-  
- frontend:
-  1. cd fromtent
-  2. pip install flask psycopg2-binary numpy opencv-python requests
-  3. flask run
+  4. загрузить структуру базы данных можно из приложенного файла tdbm.dump
+
+Доступ к pgAdmin по адресу localhost:5050
+Доступ к АРМ по адресу localhost:11081
+
